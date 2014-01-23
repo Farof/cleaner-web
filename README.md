@@ -16,6 +16,10 @@ Ever felt tired of all these buttons, links and widgets everywhere ? Can't help 
 
 I know I do. This is an attempt at a solution. 
 
+## Install
+
+https://github.com/Farof/cleaner-web/blob/master/bin/cleaner-web.xpi
+
 ## Currently supported
 
 - lemonde.fr
