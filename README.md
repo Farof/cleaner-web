@@ -2,6 +2,10 @@
 
 Declutter websites
 
+## Version
+
+0.0.1
+
 ## What
 
 Cleaner Web is a Firefox addon that loads userstyles on a selection of websites to clean up the visual noise and present you only the important information.
