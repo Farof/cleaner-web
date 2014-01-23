@@ -1,0 +1,44 @@
+#surheader,
+#barre_titre,
+.widget_recent_entries,
+.widget_recent_comments,
+.widget_lemondeblogsinvite,
+.widget_search,
+.OUTBRAIN,
+.ombrelle,
+#ariane_az,
+.bloc_base,
+.plus_partages,
+.lire,
+.reco_cross_site_outbrain,
+.rubriques_liees,
+#footer,
+.col_droite,
+.element_lie,
+#recos_portfolios_outbrain,
+#recos_videos_outbrain,
+.btn_lecture_zen,
+#nav,
+#bandeau_bas,
+div.clear:empty {
+  display: none !important;
+  min-width: 0 !important;
+  min-height: 0 !important;
+  width: 0 !important;
+  height: 0 !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+.video, .portfolio {
+  margin: 0;
+  padding: 0;
+}
+
+.global:not(.bg_fonce) {
+  width: 670px;
+}
+
+.global > .container_18 > .alpha {
+  width: auto;
+}

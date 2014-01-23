@@ -1,0 +1,20 @@
+{
+  "name": "cleaner-web",
+  "title": "cleaner-web",
+  "id": "jid1-4fwABUUfjNDnuw",
+  "description": "Declutter websites",
+  "author": "Mathieu Merdy",
+  "license": "MPL 2.0",
+  "version": "0.0.1",
+  "preferences": [{
+    "name": "isEnabled",
+    "type": "bool",
+    "title": "Activated",
+    "value": true
+  }, {
+    "name": "showContextMenu",
+    "type": "bool",
+    "title": "Show context menu",
+    "value": true
+  }]
+}

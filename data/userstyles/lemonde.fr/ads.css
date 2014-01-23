@@ -1,0 +1,34 @@
+.position_pub,
+.bloc_part,
+.conteneur_ligatus,
+.promo,
+.annonces_partenaires,
+.annnonces_partenaires,
+.lien_promo,
+.adpos,
+#lemonde-journal-elec,
+.ligatus_after_post,
+#footer_services,
+#pmfooter-wrapper {
+  display: none !important;
+  height: 0 !important;
+  width: 0 !important;
+  min-height: 0 !important;
+  min-width: 0 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+body {
+  background: none repeat scroll 0% 0% #E9EDF0 !important;
+  cursor: normal !important;
+  pointer-events: none !important;
+}
+
+a {
+  pointer-events: auto !important;
+}
+
+#en_ce_moment {
+  margin-top: 0 !important;
+}
