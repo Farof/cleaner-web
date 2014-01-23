@@ -18,7 +18,7 @@ I know I do. This is an attempt at a solution.
 
 ## Install
 
-https://github.com/Farof/cleaner-web/blob/master/bin/cleaner-web.xpi
+https://github.com/Farof/cleaner-web/raw/master/bin/cleaner-web.xpi
 
 ## Currently supported
 
