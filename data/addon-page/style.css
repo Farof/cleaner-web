@@ -1,0 +1,12 @@
+table {
+  text-align: center;
+}
+
+th, td {
+  border: 1px solid grey;
+  padding: 2px 5px;
+}
+
+.invisibleCell {
+  border: none;
+}
