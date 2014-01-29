@@ -24,8 +24,9 @@ Currently only tested in Firefox Nightly (29). Should work on Firefox main relea
 
 ## Currently supported
 
-- lemonde.fr
-- arstechnica.com
+See [Farof/usertyles](https://github.com/Farof/userstyles).
+
+This respository is used as the unique remote source of userstyles. Next versions will support an editable list of multiple remote sources.
 
 ## Goals
 
