@@ -4,7 +4,7 @@ Declutter websites
 
 ## Version
 
-0.0.1
+0.0.2
 
 ## What
 
@@ -23,6 +23,7 @@ https://github.com/Farof/cleaner-web/raw/master/bin/cleaner-web.xpi
 ## Currently supported
 
 - lemonde.fr
+- arstechnica.com
 
 ## Goals
 
