@@ -10,3 +10,5 @@
 - remove promises, too verbose and harder error handling
 - cut main.js in several modules
 - make website
+- button to manually refresh rules
+- option to check rules regularly
