@@ -18,7 +18,9 @@ I know I do. This is an attempt at a solution.
 
 ## Install
 
-https://github.com/Farof/cleaner-web/raw/master/bin/cleaner-web.xpi
+Download and open with Firefox: https://github.com/Farof/cleaner-web/raw/master/bin/cleaner-web.xpi
+
+Currently only tested in Firefox Nightly (29). Should work on Firefox main release. Will actively test later.
 
 ## Currently supported
 
